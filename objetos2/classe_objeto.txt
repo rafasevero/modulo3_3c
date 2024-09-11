@@ -1,1 +1,7 @@
+VARIAVEIS : são atributos
+DESTRUTOR: é chamado quando um objeto vai ser destruido, validado como null, etc
+MÉTODO : procedimentos que manipulam atributos de objetos.
+CONSTRUTOR: é um método especial usado para inicializar objetos de uma classe
+ STATIC : define se um atributo pertence a classe ou a um objeto
+ ACESSAR OS MEMBROS : -> and ::(php)
  
